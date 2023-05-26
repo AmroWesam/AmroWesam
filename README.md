@@ -52,7 +52,9 @@
 
 
 
-
-
-
 <br><br><br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmroWesam&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+
+
