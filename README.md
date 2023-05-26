@@ -49,12 +49,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Microsoft Office ](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
-
-
-
-<br><br><br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmroWesam&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmroWesam&theme=blue-green" alt="most used languages" />
 <br>
 
 
