@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=AmroWesam&style=for-the-badge">
 </a>
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
+<br>
 <h3 align="center">
   Welcome to Amro Awadallah's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
