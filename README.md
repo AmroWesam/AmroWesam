@@ -3,8 +3,14 @@
 <a href="https://img.shields.io/github/followers/{AmroWesam}.svg?style=social&label=Follow&maxAge=2592000e">
     <img src="https://komarev.com/ghpvc/?username=AmroWesam&style=for-the-badge">
 </a>
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 <br>
+
+
+
+
 <h3 align="center">
   Welcome to Amro Awadallah's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -22,7 +28,8 @@
 - 💬 Ask me about my experience with C#, SQL Server, and Asp.Net core MVC, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 
 ### Connect with Me :
 
