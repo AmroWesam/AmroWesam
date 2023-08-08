@@ -1,5 +1,6 @@
 
 
+
 <a href="https://img.shields.io/github/followers/{AmroWesam}.svg?style=social&label=Follow&maxAge=2592000e">
     <img src="https://komarev.com/ghpvc/?username=AmroWesam&style=for-the-badge">
 </a>
@@ -70,4 +71,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmroWesam&theme=blue-green" alt="most used languages" />
 <br>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmroWesam&show_icons=true&theme=transparent)
