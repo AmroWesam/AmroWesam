@@ -71,7 +71,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmroWesam&theme=blue-green" alt="most used languages" />
 <br>
 
 # 📊 GitHub Stats:
