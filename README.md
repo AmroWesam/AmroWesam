@@ -73,13 +73,7 @@
 
 <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmroWesam&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmroWesam&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmroWesam&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmroWesam&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmroWesam&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
